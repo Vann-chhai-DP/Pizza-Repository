@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBaxgr3F16Rj0_Sj3jkV_zP5o41Plhw4hM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>77791166077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pizza_application</string>
+	<key>PROJECT_ID</key>
+	<string>pizza-delivery-f81ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pizza-delivery-f81ba.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:77791166077:ios:3c39532b76c3392a5fbb14</string>
+</dict>
+</plist>
